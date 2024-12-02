@@ -51,6 +51,8 @@ Each class folder contains a number of images ranging from 100 to 204 images, pr
 - Each image is of size **227 × 227 × 3** (width × height × RGB channels).
 - Images are stored in common formats like **JPEG**.
 
+### Download link: https://ieee-dataport.org/documents/asian-subcontinent-dataset-ascd/embed
+
 ## Dataset Usage
 
 ### **Loading the Dataset**
